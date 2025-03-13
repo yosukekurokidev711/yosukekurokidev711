@@ -14,5 +14,4 @@
 <i>⚡ Bot Development* in Telegram Tap To Earn Game(like **Hamster Kombat**), Discord Bot, Automation tools.</i><br/>
 </p>
 </h3>
-![image](https://github.com/user-attachments/assets/fd8a4916-84b8-41b0-ae68-9a5dda854777)
 
